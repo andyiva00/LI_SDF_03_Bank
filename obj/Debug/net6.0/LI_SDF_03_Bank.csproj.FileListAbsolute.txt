@@ -1,0 +1,15 @@
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_03_Bank\obj\Debug\net6.0\LI_SDF_03_Bank.csproj.AssemblyReference.cache
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_03_Bank\obj\Debug\net6.0\LI_SDF_03_Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_03_Bank\obj\Debug\net6.0\LI_SDF_03_Bank.AssemblyInfoInputs.cache
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_03_Bank\obj\Debug\net6.0\LI_SDF_03_Bank.AssemblyInfo.cs
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_03_Bank\obj\Debug\net6.0\LI_SDF_03_Bank.csproj.CoreCompileInputs.cache
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_03_Bank\bin\Debug\net6.0\LI_SDF_03_Bank.exe
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_03_Bank\bin\Debug\net6.0\LI_SDF_03_Bank.deps.json
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_03_Bank\bin\Debug\net6.0\LI_SDF_03_Bank.runtimeconfig.json
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_03_Bank\bin\Debug\net6.0\LI_SDF_03_Bank.dll
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_03_Bank\bin\Debug\net6.0\LI_SDF_03_Bank.pdb
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_03_Bank\obj\Debug\net6.0\LI_SDF_03_Bank.dll
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_03_Bank\obj\Debug\net6.0\refint\LI_SDF_03_Bank.dll
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_03_Bank\obj\Debug\net6.0\LI_SDF_03_Bank.pdb
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_03_Bank\obj\Debug\net6.0\LI_SDF_03_Bank.genruntimeconfig.cache
+C:\Projects\LinkedIn\SoftwareDevelopmentFundamentals\Workspace\LI_SDF_03_Bank\obj\Debug\net6.0\ref\LI_SDF_03_Bank.dll
