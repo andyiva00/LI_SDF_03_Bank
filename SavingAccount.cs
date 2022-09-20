@@ -20,8 +20,7 @@ namespace BankClassChallenge
         {
             if (Balance >= amount && FreeWithdrawCount > 0
                 || Balance - AdditionalWithdrawCharge >= amount && FreeWithdrawCount == 0)
-            {
-                Balance -= amount;
+            {                
                 if (FreeWithdrawCount == 0)
                 {
                     Console.WriteLine("More than 3 withdrawals - extra charge");
@@ -29,6 +28,8 @@ namespace BankClassChallenge
                 }
                 FreeWithdrawCount--;
                 FreeWithdrawCount = Math.Max(FreeWithdrawCount, 0);
+                
+                base.Withdraw(amount);
             }
             else
             {

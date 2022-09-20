@@ -16,7 +16,11 @@ namespace BankClassChallenge
         // methods
         public override void Withdraw(decimal amount)
         {
-            Balance -= Balance < amount ? (amount + OverdrawCharge) : amount;
+            if (Balance < amount)
+            {
+                Balance -= OverdrawCharge;
+            }
+            base.Withdraw(amount);
         }
 
         // constructor
